@@ -1,19 +1,33 @@
 # lab-01-markdown
 
-# MAKES SOMETHING BIG   
+# H1  
 
-## makes something smaller
+## H2
 
-### makes something even smaller\
+### h3
 
-#### smallest thing
-
-
+#### h4  etc.....
 
 
-**I want to bold text with two atricies**
 
-*Italics with 1 asterices*
+
+
+
+
+**I want to bold text with two atricies** || __bold__
+
+*Italics with 1 asterices* 
+
+~~scratch this~~
+
+* lists start with an asterisk
+    * can also nest lists
+
+1. ordered lists
+    
+    *nested ordered lists
+
+
 
 ```js
 if (true) {
@@ -21,7 +35,11 @@ if (true) {
 }
 
 
-
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 
 
