@@ -1,7 +1,25 @@
 # lab-01-markdown
 
-# some small change
+# MAKES SOMETHING BIG   
 
-- more stuff
-- some  other stuff
-- even mroe stuff
+## makes something smaller
+
+### makes something even smaller\
+
+#### smallest thing
+
+
+
+
+**I want to bold text with two atricies**
+
+*Italics with 1 asterices*
+
+
+
+
+
+
+
+
+
