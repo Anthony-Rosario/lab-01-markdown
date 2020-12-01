@@ -15,8 +15,10 @@
 
 *Italics with 1 asterices*
 
-
-
+```js
+if (true) {
+    console.log('hello there)
+}
 
 
 
